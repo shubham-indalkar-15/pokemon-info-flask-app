@@ -33,7 +33,7 @@ To run the application locally, follow these steps:
 
 2. Navigate to the project directory.
     ```shell
-    cd pokemon-info-app
+    cd pokemon-info-flask-app
     ```
 
 3. Install the required Python libraries.
