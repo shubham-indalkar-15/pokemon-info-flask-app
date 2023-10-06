@@ -2,6 +2,8 @@
 
 This web application allows users to search for information about Pokémon, including their name, image, type, height, weight, and abilities. It uses data from the [PokéAPI](https://pokeapi.co/) to provide accurate and up-to-date information about Pokémon.
 
+<img width=1000 src=screenshot.png>
+
 ## Features
 
 1. **Pokémon Search**: Enter the name of a Pokémon in the search box and press the "Search" button to fetch and display information about that Pokémon.
